@@ -2,10 +2,10 @@
 
 # Content pages
 <ul>
-    <li>	Login, sign up and form<li>
-    <li>	Sign out<li>
-    <li>	Admin view<li>
-    <li>	Regular user view<li>
+    <li>	Login, sign up and form</li>
+    <li>	Sign out</li>
+    <li>	Admin view</li>
+    <li>	Regular user view</li>
     •	Home page
     •	List all product
     •	Product details
