@@ -1,20 +1,23 @@
 # Laravel E-Commerce web app
 
 # Content pages
-•	Login, sign up and form
-•	Sign out
-•	Admin view
-•	Regular user view
-•	Home page
-•	List all product
-•	Product details
-•	Shopping cart
-•	Search for specific products
-•	Admin dashboard
-•	Admin can add, update and delete product or category
-•	Admin can delete user
-•	Some statistics in the admin dashboard
-•	Payment gateway
-•	Product shipping and delivery
-•	Profile
-•	Validation
+<ul>
+    <li>	Login, sign up and form<li>
+    <li>	Sign out<li>
+    <li>	Admin view<li>
+    <li>	Regular user view<li>
+    •	Home page
+    •	List all product
+    •	Product details
+    •	Shopping cart
+    •	Search for specific products
+    •	Admin dashboard
+    •	Admin can add, update and delete product or category
+    •	Admin can delete user
+    •	Some statistics in the admin dashboard
+    •	Payment gateway
+    •	Product shipping and delivery
+    •	Profile
+    •	Validation
+</ul>
+
