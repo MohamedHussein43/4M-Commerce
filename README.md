@@ -1,6 +1,6 @@
-#Laravel E-Commerce web app
+# Laravel E-Commerce web app
 
-#Content pages
+# Content pages
 •	Login, sign up and form
 •	Sign out
 •	Admin view
