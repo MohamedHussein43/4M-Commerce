@@ -6,18 +6,18 @@
     <li>	Sign out</li>
     <li>	Admin view</li>
     <li>	Regular user view</li>
-    •	Home page
-    •	List all product
-    •	Product details
-    •	Shopping cart
-    •	Search for specific products
-    •	Admin dashboard
-    •	Admin can add, update and delete product or category
-    •	Admin can delete user
-    •	Some statistics in the admin dashboard
-    •	Payment gateway
-    •	Product shipping and delivery
-    •	Profile
-    •	Validation
+    <li>	Home page</li>
+    <li>	List all product</li>
+    <li>	Product details</li>
+    <li>	Shopping cart</li>
+    <li>	Search for specific products</li>
+    <li>	Admin dashboard</li>
+    <li>	Admin can add, update and delete product or category</li>
+    <li>	Admin can delete user</li>
+    <li>	Some statistics in the admin dashboard</li>
+    <li>	Payment gateway</li>
+    <li>	Product shipping and delivery</li>
+    <li>	Profile</li>
+    <li>	Validation</li>
 </ul>
 
